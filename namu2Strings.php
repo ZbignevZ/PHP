@@ -173,7 +173,7 @@ function getName($n) {
 }
   
 echo getName($n);
-?>
+
 
 
 
